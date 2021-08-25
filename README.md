@@ -44,3 +44,19 @@ when computing approximate string matching.
 
 ## Screenshots of experimental results
 
+### World192.txt (used in research)
+![world192](https://user-images.githubusercontent.com/61515279/130721844-22e03180-7fb8-4b80-8fbc-5948d4a55bce.png)
+
+### E.Coli Genome (used in research)
+![ecoli](https://user-images.githubusercontent.com/61515279/130721960-7417fd4c-cbb4-4099-b4e8-545f5db2a197.png)
+
+### Numerical text 
+![numerical](https://user-images.githubusercontent.com/61515279/130722029-f9690e59-1808-4ba5-a19e-eb865f934bc3.jpeg)
+
+### Binary text
+![binary](https://user-images.githubusercontent.com/61515279/130722209-2727a236-b40a-4a8b-b794-b7282fe979eb.jpeg)
+
+
+
+
+
